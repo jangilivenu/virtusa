@@ -1,0 +1,16 @@
+h2 {
+  color: white;
+  background-color: #04a4ff;
+  text-align: center;
+}
+body {
+  background-color: #dbf3fa;
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+.inputWidth {
+  width: 350px;
+  border-radius: 10px;
+}
